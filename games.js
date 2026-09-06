@@ -25,11 +25,17 @@ window.PAGES = {
     "ribbonColor": "#00FF00"
   },
   
+  "Cookie Clicker": { 
+    "url": "https://script.google.com/macros/s/AKfycbxGM35J29NkO-2LYjxWj_cA9IUaaXypkUy-LqXyLRbGTz0R6lXmAEapz1STN1jlTIRavw/exec",
+    "cover": "cookieclicker.png",
+    "ribbon": "New",
+    "ribbonColor": "#00FF00"
+  },
   "Basket Bros": { 
     "url": "https://newnewnewnewtab.github.io/basketbros/",
     "cover": "basketbros.png"
   },
-   "Smash Kartz": { 
+   "Smash Karts": { 
     "url": "https://script.google.com/macros/s/AKfycbyE1C_kxeomVoOLjpaXc2uAI7JdNgVhdQdePTZu9Sizwzj_imhaWnNmPSXm4w1v-SFs/exec",
     "cover": "smashkartz.jpeg",
     "ribbon": "New",
