@@ -52,7 +52,8 @@ const WHATS_NEW = [
       "Added Drifting Mania",
       "Changed homepage and overall color to black and purple",
       "Ai chat now only one model but works better",
-      "whats new page now timeline+mini updates"
+      "whats new page now timeline+mini updates",
+      "Added Cookie Clicker"
     ]
   },
   {
